@@ -1,0 +1,13 @@
+######################################################## 
+#HSDPA
+
+DefaultVendor= 0x0685
+DefaultProduct=0x2000
+
+TargetVendor=  0x0685
+TargetProduct= 0x8000
+
+MessageContent="5553424308f088891200000080000c03000000120000000000000000000000"
+
+CheckSuccess=20
+
